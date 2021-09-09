@@ -30,6 +30,19 @@ Nýtið ykkur Sample program- Shaft encoder- Moving straight
 Notið while lúppu búið til fall void drive(int dist){}
 Gerið sauðakóða sem textaskjal með C kóðanum og flæðirit áður en þið forritið og skilið í Innu
 Athugið að þið þurfið að reikna ummál hjóls og sýna í commenti.  Gerið flæðiritið í http://draw.io þegar búið farið í  File-export as - image. Skilið video af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
+
+[video1](https://streamable.com/sp3dhu)
+[video2](https://streamable.com/08v9ae)
+[video3](https://streamable.com/e7g6o1)
+
+[flæðirit](https://i.imgur.com/2qeHmEi.png)
+
+[kóði](https://pastebin.com/SxPgsMxN)
+
+
+
+
+
 ##  3. Hluti 33 stig af 100
 Forritið robot þannig að hann leysi þraut sem er á mynd fyrir neðan.
 Notið shaft-encoder, munið hér þurfið þið að kenna robot að snúa 90° þ.e búa til fall void turn(int deg){} og void drive(int dist){}
