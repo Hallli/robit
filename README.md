@@ -35,7 +35,7 @@ Athugið að þið þurfið að reikna ummál hjóls og sýna í commenti.  Geri
 [video2](https://streamable.com/08v9ae)
 [video3](https://streamable.com/e7g6o1)
 
-[flæðirit](https://i.imgur.com/2qeHmEi.png)
+[flæðirit](https://i.imgur.com/6ssHM18.png)
 
 [kóði](https://pastebin.com/SxPgsMxN)
 
