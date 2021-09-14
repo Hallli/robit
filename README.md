@@ -51,7 +51,7 @@ Gerið sauðakóða sem textaskjal með C kóðanum og flæðirit áður en þi�
 Gerið flæðiritið í [Draw.io](http://draw.io) þegar búið farið í  File-export as - image
 Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
 
-[video](https://streamable.com/e7g6o1)
+[video](https://streamable.com/e8hu9i)
 
 [kóði](https://pastebin.com/YvaDxdUA)
 
